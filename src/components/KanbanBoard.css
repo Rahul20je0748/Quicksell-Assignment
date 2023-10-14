@@ -1,5 +1,5 @@
 .kanban-board {
-    background-color: #bcbcbc;
+    background-color: #FF6700;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -30,8 +30,8 @@
     position: absolute;
     top: 70px;
     left: 20px;
-    background-color: #f3f6f4;
-    border: 1px solid #bcbcbc;
+    background-color: #f4cccc;
+    border: 1px solid #FF6700;
   }
   
   .dropdowns {
@@ -45,7 +45,7 @@
   
   select {
     padding: 8px;
-    border: 1px solid #bcbcbc;
+    border: 1px solid #FF6700;
     border-radius: 5px;
   }
   
@@ -55,7 +55,7 @@
   }
   
   .column {
-    background-color: #bcbcbc;
+    background-color: #FF6700;
     border-radius: 5px;
     padding: 20px;
     width: 30%;
@@ -69,7 +69,7 @@
   }
   
   .card {
-    background-color:#f3f6f4;
+    background-color:#f4cccc;
     padding: 10px;
     margin: 10px 10px;
   }
@@ -108,15 +108,15 @@
     border-radius: 50%;
     font-weight: bold;
     font-size: 14px;
-    color: #f3f6f4;
+    color: #f4cccc;
     text-transform: uppercase;
   }
   
   .user-avatar.green {
-    background-color: green;
+    background-color: #f1c232;
   }
   
   .user-avatar.blue {
-    background-color: blue;
+    background-color: #c27ba0;
   }
   
